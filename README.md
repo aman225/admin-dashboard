@@ -60,35 +60,3 @@ A modern, responsive admin dashboard built with Next.js 14, TypeScript, and Tail
                 yarn dev
                 # or
                 pnpm dev
-
-     🎯 Usage
-Dashboard
-The main dashboard displays a list of users fetched from JSONPlaceholder API. You can:
-
-View user information (name, email, phone, city)
-Search users by name or city in real-time
-Navigate to add new users
-Adding Users
-Click the "Add New User" button to access the multi-step form:
-
-Step 1 - Basic Info
-
-Enter user's name
-Enter valid email address
-Step 2 - Address
-
-Enter street address
-Enter city
-Enter 5-digit ZIP code
-Step 3 - Review
-
-Review all entered information
-Submit to console (for demo purposes)
-Theme Toggle
-Click the sun/moon icon in the top-right corner to switch between light and dark modes. Your preference is saved automatically.
-
-🔧 Configuration
-API Endpoint
-The app fetches user data from:
-
-
