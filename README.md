@@ -1,8 +1,7 @@
 # Admin Dashboard
 
-A modern, responsive admin dashboard built with Next.js 14, TypeScript, and Tailwind CSS. Features user management, multi-step forms, and a beautiful dark mode.
+A modern, responsive admin dashboard built with Next.js 14, TypeScript, and Tailwind CSS. Features user management, multi-step forms.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Dashboard+Preview)
 
 ## 🚀 Features
 
